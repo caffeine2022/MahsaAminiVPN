@@ -32,10 +32,7 @@ Paypal for donations (TBD)
 Share it with friends and family for use or contribution or donation. 
 
 ### How to request account, info or contact you?
-- channel: get user guide and latest news and updates
-- group: get support
-- bot: robot that helps you get a vpn connection
+- channel: get user guide and latest news and updates https://t.me/MahsaAminiVPN2 
+- group: get support https://t.me/MahsaAminiVPN
+- bot: robot that helps you get a vpn connection 
 
-# Other Similar projects
-- FreeInternet Project under WeAreMahsaAmini: https://github.com/WeAreMahsaAmini/FreeInternet
-- Hidify: https://github.com/hiddify
